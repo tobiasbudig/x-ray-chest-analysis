@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 #dir
-./datasets/
-./storage/
+/datasets/
+/storage/
 
 # Distribution / packaging
 .Python
